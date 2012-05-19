@@ -1,11 +1,11 @@
-#player,#player a{ color:#ff5959; }
+#player,#player a{ color:#FFFFFF; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
-#player .mainImage{ background:url(main.png); }
+#player .mainImage{ background:url(); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(playBtn.png); }
+#player #play{ background:url(http://dl7.glitter-graphics.net/pub/3193/3193527vovoi6v2qu.gif); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -20,9 +20,9 @@
 #player #seekerSliderBase{ background-color:#ff0033; }
 
 #player #volume{ width:65px; right:39px; }
-#player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:8px; background:url(http://dl2.glitter-graphics.net/pub/1414/1414472gwga3pexe8.gif); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#ff0033; color:#ff0033; }
+#playlist,#playlist .module,#playlist h3{ border-color:#ffffff; color:#ff0033; }
 #playlist h3{ color:#ff0033; background-color:#fff; }
 #playlist .even{background-color:#FFF;}
 #playlist .odd{ background-color:#ffe8e8;}
