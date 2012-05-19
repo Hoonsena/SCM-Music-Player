@@ -1,4 +1,4 @@
-#player,#player a{ color:#ff5959; }
+#player,#player a{ color:#ffffff; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(main.png); }
 
@@ -15,9 +15,9 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#ffe1e7;  }
+#player #seekerBase{ border-color:#ffffff;  }
 #player #seekerBuffered{ background-color:#ffe1e7; }
-#player #seekerSliderBase{ background-color:#ff0033; }
+#player #seekerSliderBase{ background-color:#ffffff; }
 
 #player #volume{ width:65px; right:39px; }
 #player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
